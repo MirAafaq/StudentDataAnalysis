@@ -10,6 +10,6 @@ cd scripts
 Rscript analysis.R
 ```
 # Author 
-[Aafaq Ahmad Mir][https://instagram.com/mir.aafaq]
+[Aafaq Ahmad Mir](https://instagram.com/mir.aafaq)
 
 
