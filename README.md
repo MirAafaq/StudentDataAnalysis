@@ -1,5 +1,6 @@
 # StudentDataAnalysis
 Data analysis and visualization using R
+![studentDataAnalysis](https://codejourney.in/App/Uploads/External/Images/sa.png)
 # Usage
 
 ```bash
