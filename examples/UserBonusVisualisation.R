@@ -1,4 +1,4 @@
-# code by Aafaq Ahmad mir
+# Code by Aafaq Ahmad mir
 # loading library
 library(ggplot2)
 # Existing data
